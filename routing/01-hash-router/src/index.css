@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+header {
+  text-align: center;
+  background: indigo;
+}
+
+h1 {
+  text-align: center;
+  color: indigo}
+
+nav {
+  text-align: center;
+  height: 200px;
+}
+
+nav a {
+  margin: 0 30px;
+  line-height: 40px;
+}
+p {text-align: center}
+
+p span {
+  color: darkcyan;
+  font-style: italic;
+  cursor: no-drop;
+}
